@@ -1,11 +1,11 @@
 title: Vaibhav Kr Yadav
-logo: /assets/img/logo.png
+logo: "/assets/image/VaibhavKrYadav.jpg"
 description: 
-First Description
-<br><br>
-Second Description
-<br><br>
-<a href="LinkedinUrl"> View My Linkedin Profile</a>
+  First Description
+  <br><br>
+  Second Description
+  <br><br>
+  <a href="LinkedinUrl"> View My Linkedin Profile</a>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
