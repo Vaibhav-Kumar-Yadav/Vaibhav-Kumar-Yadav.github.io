@@ -1,11 +1,9 @@
 title: <p align= "center"> Vaibhav Kr Yadav </p>
 logo: "/assets/image/VaibhavKrYadav.jpg?raw=true"
 description: 
-  <p align="center">
-  Software Engineer | Data Science Enthusiast
+  Software Engineer|Data Science Enthusiast
   <br><br>
   <a href="LinkedinUrl"> View My Linkedin Profile</a>
-  </p>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
