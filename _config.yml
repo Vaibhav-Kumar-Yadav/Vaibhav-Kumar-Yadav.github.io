@@ -7,3 +7,15 @@ description:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+navigation:
+  - title: Home
+    url: /
+  - title: Blogs
+    url: /blogs
+  - title: Articles
+    url: /articles
+  - title: Papers
+    url: /papers
+  - title: Projects
+    url: /projects
