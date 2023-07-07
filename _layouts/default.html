@@ -39,6 +39,11 @@
         {% endif %}
       </header>
       <section>
+<ul class="navigation-menu">
+  {% for item in site.navigation %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+</ul>
 
       {{ content }}
 
